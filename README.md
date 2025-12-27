@@ -22,7 +22,7 @@ An interactive Power BI dashboard was built to visualize:
 - Billing patterns by insurance provider
 - Monthly admission trends
 
-![Dashboard Overview](images/screenshots/dashboard.jpeg)
+![Dashboard Overview](images/dashboard.jpeg)
 
 ## Key Insights
 - Asthma and Cancer are the most common medical conditions
